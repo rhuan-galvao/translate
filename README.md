@@ -1,9 +1,9 @@
-## Translate
+# Translate
 Programa de tradução feito em Python
 
 Um programa de tradução de texto feito em python.
 
-# Como Utilizar ?
+## Como Utilizar ?
 
  1. Tenha o python instalado:
   https://python.org
